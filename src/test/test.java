@@ -2,7 +2,7 @@ package test;
 //こめんとしました
 public class test {
 
-//おきなわなごや
+//おきなわなごや修正
 
 }
 
