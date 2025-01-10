@@ -1,5 +1,5 @@
 package test;
-//こめんと
+//こめんとしました
 public class test {
 	
 	
